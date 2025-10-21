@@ -60,7 +60,7 @@ Personal-Portfolio/
 
 ### 1. Download the Project
 ```bash
-git clone https://github.com/mohamed-abouhamad/personal-portfolio.git
+git clone https://github.com/mrvirusdev/personal-portfolio.git
 cd personal-portfolio
 ```
 
@@ -187,7 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Email**: mrvirus@medal-team.com
 - **LinkedIn**: [mohamad-abouhamad](https://linkedin.com/in/mohamad-abouhamad)
-- **GitHub**: [mohamed-abouhamad](https://github.com/mohamed-abouhamad)
+- **GitHub**: [mohamed-abouhamad](https://github.com/mrvirusdev)
 
 ## 🙏 Acknowledgments
 
@@ -201,6 +201,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If you like the project, don't forget to give it a star! ⭐**
 
-Made with ❤️ by [Mohamed Abouhamad](https://github.com/mohamed-abouhamad)
+Made with ❤️ by [Mohamed Abouhamad](https://github.com/mrvirusdev)
 
 </div>
